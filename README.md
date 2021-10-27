@@ -5,6 +5,6 @@ Repository containing portfolio of data science projects completed by me for sel
 Note: Data used in the projects (accessed under data directory) is for demonstration purposes only.
 
 # Contents
-   *  [hr attrtibution] (HR_ATTRITION_PROJECT.ipynb)
+   *  [Employee Attrition Prediction using ML] (https://github.com/mounikachundru/ML-projcets-portfolio/blob/main/HR_ATTRITION_PROJECT.ipynb)
                             
                             
